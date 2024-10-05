@@ -1,0 +1,5 @@
+Top student: Noe
+Average grade: 93.00
+Math: 87
+Science: 99
+History: 93
